@@ -26,7 +26,7 @@ print(f'One of ITEC 2905s favorite types of music is {favorite_music}')
 
 ## 5. Favorite Place
 
-favorite_place = ''
+favorite_place = '\033[0;1;32mEfteling\033[0;0m, a theme park in Kaatsheuvel, in the Netherlands.'
 print(f'One of ITEC 2905s favorite places is {favorite_place}')
 
 

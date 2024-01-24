@@ -37,7 +37,7 @@ print(f'One of ITEC 2905s favorite holidays is {favorite_holiday}')
 
 ## 7. Favorite Book
 
-favorite_book = ''
+favorite_book = 'A Placeholder\'s Guide to Holding Places'
 print(f'One of ITEC 2905s favorite books is {favorite_book}')
 
 
@@ -67,7 +67,7 @@ print(f'One of ITEC 2905s favorite stores is {favorite_store}')
 
 ## 12. Favorite Sport
 
-favorite_sport = ''
+favorite_sport = 'football football (not american football)'
 print(f'One of ITEC 2905s favorite sports is {favorite_sport}')
 
 
@@ -97,5 +97,5 @@ print(f'One of ITEC 2905s favorite seasons is {favorite_season}')
 
 ## 17. Favorite Plant, Tree or Flower
 
-favorite_plant = ''
+favorite_plant = 'Lotus'
 print(f'One of ITEC 2905s favorite plants is {favorite_plant}')
